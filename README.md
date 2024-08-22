@@ -2,7 +2,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_gandolfi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gandolfi-68969823a/)
-
+## Minha plataforma principal de estudos!!
+[![Static Badge](https://img.shields.io/badge/%20%20DIO-blue?style=flat-square&link=Left)](https://web.dio.me/users/raevyalienado/?tab=achievements)
 
 
 ![Gandolfi GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloGandolfi&show_icons=true&theme=dark)
