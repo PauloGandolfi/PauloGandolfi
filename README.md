@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br/>
 
-Como desenvolvedor que ainda estuda full-stack, minha paixão reside na harmonia entre a criatividade e a precisão técnica.
+Como desenvolvedor que ainda estuda front-end, minha paixão reside na harmonia entre a criatividade e a precisão técnica.
 Ao unir front-end e back-end, transformo conceitos abstratos em experiências tangíveis.<br />
 proporcionando soluções digitais inovadoras. Cada linha de código que escrevo é uma <br />
 expressão do meu compromisso em criar interfaces intuitivas e sistemas robustos.<br />
