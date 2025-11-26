@@ -7,9 +7,6 @@
 [![Static Badge](https://img.shields.io/badge/%20%20Alura-black?style=flat-square&link=Left)]([https://web.dio.me/users/raevyalienado/?tab=achievements](https://www.alura.com.br/?srsltid=AfmBOoowp9kPdnsD6imGpzUR2CSTMCU2r3blxbVkH8X0kWXUePMNtKUi))
 
 
-![Gandolfi GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloGandolfi&show_icons=true&theme=dark)
-
-
 ## Tecnologia que uso no meu dia
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
