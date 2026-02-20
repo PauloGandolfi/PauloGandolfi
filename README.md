@@ -23,9 +23,10 @@
 
 
 
-Desenvolvedor Back-End em início de carreira apaixonado por criar soluções eficientes e escaláveis.<br />
-Busco aprimorar minhas habilidades em Java, SpringBoot e bancos de dados enquanto construo projetos <br />
-que unem boas práticas e aprendizado contínuo.
+Desenvolvedor Java focado em back-end, com experiência prática em Spring Boot,<br />
+JPA e construção de APIs REST. <br />
+Busco evoluir continuamente em arquitetura, boas práticas e qualidade de código, <br />
+desenvolvendo soluções robustas, testáveis e alinhadas com padrões de mercado. 🚀🔥
 
 
 
