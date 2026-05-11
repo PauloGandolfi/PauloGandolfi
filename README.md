@@ -25,7 +25,7 @@ JPA e construção de APIs REST. <br />
 Busco evoluir continuamente em arquitetura, boas práticas e qualidade de código, <br />
 desenvolvendo soluções robustas, testáveis e alinhadas com padrões de mercado. 🚀🔥
 
-![snake gif](https://github.com/paulogandolfi/paulogandolfi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/PauloGandolfi/PauloGandolfi/output/github-contribution-grid-snake-dark.svg)
 
 
 
