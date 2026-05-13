@@ -7,7 +7,7 @@ Backend Java Developer
 
 ---
 
-## 🚀 Tecnologias que uso no meu dia
+## 🚀 Technologies I Use Daily
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -17,29 +17,27 @@ Backend Java Developer
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+---
+
+## 📚 About Me
+
+Java Developer focused on backend development, with hands-on experience in Spring Boot, JPA, and REST API development.
+
+Currently studying clean architecture, design patterns, and software engineering best practices to build scalable, robust, and testable applications. 🚀
 
 ---
 
-## 📚 Sobre mim
-
-Desenvolvedor Java focado em back-end, com experiência prática em Spring Boot, JPA e construção de APIs REST.
-
-Atualmente estudando arquitetura limpa, padrões de projeto e boas práticas de desenvolvimento para criar aplicações escaláveis, robustas e testáveis. 🚀
-
----
-
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 ### 📘 StudyPlatform
-Plataforma de estudos inspirada em Notion + Anki para organização e revisão de conteúdos.
+A study platform inspired by Notion + Anki for organizing and reviewing learning content.
 
 ### 💰 Finance API
-API de controle financeiro com sistema gamificado de metas e progresso financeiro.
+A financial control API with a gamified system for goals and financial progress tracking.
 
 ### 🔐 Auth API
-Sistema de autenticação JWT com Spring Security e controle de permissões.
+JWT authentication system using Spring Security and role-based access control.
 
 ---
-
 
 ![snake gif](https://raw.githubusercontent.com/PauloGandolfi/PauloGandolfi/output/github-contribution-grid-snake-dark.svg)
